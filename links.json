@@ -1,0 +1,17 @@
+{
+  "site": "https://talktoai.org/",
+  "docs": "https://docs.talktoai.org/",
+  "research": "https://research.talktoai.org/",
+  "projects": [
+    { "name": "OpenZero AIOS", "url": "https://openzero.talktoai.org/", "type": "AI operating system" },
+    { "name": "ZeroThink", "url": "https://zerothink.talktoai.org/", "type": "sovereign AI research" },
+    { "name": "FreeWebPanel", "url": "https://freewebpanel.com/", "type": "hosting control panel" },
+    { "name": "Cymatics Zero Agent", "url": "https://cymatics.talktoai.org/", "type": "browser research lab" },
+    { "name": "QuantumEncryption1", "url": "https://quantumencryption1.com/", "type": "security service" },
+    { "name": "World SEO Service", "url": "https://worldseoservice.com/", "type": "SEO services and tools" },
+    { "name": "FrontDeskAgent Online", "url": "https://frontdeskagent.online/", "type": "AI receptionist service" },
+    { "name": "MeetDateFree", "url": "https://meetdatefree.com/", "type": "dating platform" }
+  ],
+  "public_scope": "Project discovery, public documentation, useful links, checklists, examples, and non-sensitive resources.",
+  "private_scope": "Production code, server details, admin routes, secrets, model prompts, customer data, billing logic, security internals."
+}
