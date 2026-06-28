@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: TalkToAI public site
+    url: https://talktoai.org/
+    about: Main public entry point and contact route.
+  - name: ZSEC Auto Updates
+    url: https://github.com/ResearchForumOnline/ZSEC
+    about: Security-only Linux updates, advisory tracking, and server hardening.
+  - name: FreeWebPanel
+    url: https://github.com/ResearchForumOnline/FreeWebPanel
+    about: Hosting panel and server management project.
