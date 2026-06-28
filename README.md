@@ -56,9 +56,9 @@ Use these as the first GitHub profile pins once the profile page is tuned:
 3. `ResearchForumOnline/ZEROtalktoai`
 4. `ResearchForumOnline/AgentZERO`
 5. `ResearchForumOnline/ZERO`
-6. `ResearchForumOnline/ZT`
+6. `ResearchForumOnline/Genetic-Adaptation-Equation-Framework`
 
-The research framework repositories can be pinned later when their READMEs have a consistent summary, install status, examples, and citation-style context.
+After further cleanup, consider rotating in `Quantum-Bypass-Adaptation-Framework`, `Unified_Genetic_MultiDimensional_Framework`, and `ZT`.
 
 ## Repository Boundary
 
